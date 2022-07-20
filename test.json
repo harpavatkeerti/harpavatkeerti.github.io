@@ -1,0 +1,362 @@
+{
+  "stringId": "$$$/Some/Test/String/ID",
+  "coreString": "This is a very big string for translation",
+  "locString": "This is a very big string for translation",
+  "status": "Available for Translation",
+  "TMHints": [
+    {
+      "coreString": "This is a string for translation",
+      "locString": "Dies ist eine Zeichenfolge für die Übersetzung",
+      "match": 80
+    },
+    {
+      "coreString": "This is a very big string for translation",
+      "locString": "Dies ist eine sehr große Zeichenfolge für die Übersetzung",
+      "match": 100
+    },
+    {
+      "coreString": "Talk with someone who speaks a different language.",
+      "locString": "Sprich mit jemandem, der eine andere Sprache spricht.",
+      "match": 40
+    },
+    {
+      "coreString": "Highlight or right-click on a section of text and click on Translate icon next to it to translate it to your language..",
+      "locString": "Markieren Sie einen Textabschnitt oder klicken Sie mit der rechten Maustaste darauf und klicken Sie daneben auf das Übersetzen-Symbol, um ihn in Ihre Sprache zu übersetzen.",
+      "match": 20
+    },
+    {
+      "coreString": "Download languages to use offline",
+      "locString": "Laden Sie Sprachen herunter, um sie offline zu verwenden",
+      "match": 35
+    }
+  ],
+  "TD": [
+    [
+      {
+        "id": 1190115,
+        "text": "Acrobat",
+        "language": "en-us",
+        "status": "Approved",
+        "attributes": [
+          {
+            "name": "_td_created_date",
+            "value": "1427988020000"
+          },
+          {
+            "name": "_td_modified_by",
+            "value": "German Reviewer"
+          },
+          {
+            "name": "_td_modified_date",
+            "value": "1427988020000"
+          },
+          {
+            "name": "_td_created_by",
+            "value": "German Reviewer"
+          }
+        ]
+      },
+      {
+        "id": 1190112,
+        "text": "Acrobat",
+        "language": "de-de",
+        "status": "Approved",
+        "attributes": [
+          {
+            "name": "_td_created_date",
+            "value": "1427988020000"
+          },
+          {
+            "name": "_td_modified_by",
+            "value": "German Reviewer"
+          },
+          {
+            "name": "_td_modified_date",
+            "value": "1427988020000"
+          },
+          {
+            "name": "_td_created_by",
+            "value": "German Reviewer"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": 1186195,
+        "text": "Acrobat Approval",
+        "language": "en-us",
+        "status": "Approved",
+        "attributes": [
+          {
+            "name": "_td_created_date",
+            "value": "1427988020000"
+          },
+          {
+            "name": "_td_modified_by",
+            "value": "German Reviewer"
+          },
+          {
+            "name": "_td_modified_date",
+            "value": "1427988020000"
+          },
+          {
+            "name": "_td_created_by",
+            "value": "German Reviewer"
+          }
+        ]
+      },
+      {
+        "id": 1186192,
+        "text": "Acrobat Approval",
+        "language": "de-de",
+        "status": "Approved",
+        "attributes": [
+          {
+            "name": "_td_created_date",
+            "value": "1427988020000"
+          },
+          {
+            "name": "_td_modified_by",
+            "value": "German Reviewer"
+          },
+          {
+            "name": "_td_modified_date",
+            "value": "1427988020000"
+          },
+          {
+            "name": "_td_created_by",
+            "value": "German Reviewer"
+          }
+        ]
+      }
+    ]
+  ],
+  "MT": "Es bietet eine Website-Schnittstelle, eine mobile App für Android und iOS und eine API, die Entwicklern hilft, Browsererweiterungen und Softwareanwendungen zu erstellen.",
+  "context": [
+    "https://git.corp.adobe.com/harpavat/first-pwa/blob/master/image.jpeg",
+    "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.argotrans.com%2Fhubfs%2FImported_Blog_Media%2Fgoogle_transate_2019.png&imgrefurl=https%3A%2F%2Fwww.argotrans.com%2Fblog%2Faccurate-google-translate-2019&tbnid=zG2cn7WFB7fjwM&vet=10CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg..i&docid=A5QTAlbXNt1xnM&w=773&h=393&q=translate&ved=0CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg",
+    "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.argotrans.com%2Fhubfs%2FImported_Blog_Media%2Fgoogle_transate_2019.png&imgrefurl=https%3A%2F%2Fwww.argotrans.com%2Fblog%2Faccurate-google-translate-2019&tbnid=zG2cn7WFB7fjwM&vet=10CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg..i&docid=A5QTAlbXNt1xnM&w=773&h=393&q=translate&ved=0CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg"
+  ],
+  "sourcePreview": "https://git.corp.adobe.com/harpavat/first-pwa/blob/master/package.json",
+  "targetPrview": "https://git.corp.adobe.com/harpavat/first-pwa/blob/master/tsconfig.json",
+  "otherMetadata": [
+    {
+      "_id": "62d7f1ead76796777bdc570a",
+      "index": 0,
+      "guid": "e6159ebc-7612-4ca2-96b0-219a38a9b6dd",
+      "isActive": true,
+      "balance": "$1,861.01",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "eyeColor": "green",
+      "name": "Powers Hubbard",
+      "gender": "male",
+      "company": "ISOLOGIA",
+      "email": "powershubbard@isologia.com",
+      "phone": "+1 (954) 556-3769",
+      "address": "605 Bergen Street, Osmond, District Of Columbia, 1622",
+      "about": "Fugiat eu ea ipsum qui commodo ex consectetur esse eiusmod consequat eu nostrud. Quis magna ullamco Lorem esse excepteur commodo dolor reprehenderit ullamco quis fugiat pariatur velit nisi. Tempor minim adipisicing voluptate consequat incididunt ut.\r\n",
+      "registered": "2018-11-02T01:47:42 -06:-30",
+      "latitude": 8.893109,
+      "longitude": -148.047466,
+      "tags": ["qui", "magna", "incididunt", "sint", "ad", "aliqua", "ipsum"],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Rasmussen Cruz"
+        },
+        {
+          "id": 1,
+          "name": "Suarez Brooks"
+        },
+        {
+          "id": 2,
+          "name": "Kerr Warner"
+        }
+      ],
+      "greeting": "Hello, Powers Hubbard! You have 5 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "62d7f1eada9438c792d7475b",
+      "index": 1,
+      "guid": "795067af-2a87-4814-a84b-72602a99af70",
+      "isActive": false,
+      "balance": "$2,212.71",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "eyeColor": "blue",
+      "name": "Kaitlin Cortez",
+      "gender": "female",
+      "company": "COMSTAR",
+      "email": "kaitlincortez@comstar.com",
+      "phone": "+1 (812) 566-2569",
+      "address": "798 Chester Street, Lynn, Massachusetts, 2657",
+      "about": "Commodo magna do commodo cupidatat aliqua eiusmod commodo mollit deserunt. Esse mollit sunt reprehenderit eu consequat est fugiat mollit dolor qui ad sit nostrud adipisicing. Commodo irure veniam labore nostrud tempor quis cillum in deserunt laborum.\r\n",
+      "registered": "2015-05-30T02:43:16 -06:-30",
+      "latitude": 18.592197,
+      "longitude": -100.340645,
+      "tags": [
+        "irure",
+        "tempor",
+        "eu",
+        "exercitation",
+        "consequat",
+        "deserunt",
+        "cillum"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Maynard Gilliam"
+        },
+        {
+          "id": 1,
+          "name": "Dorothea Benton"
+        },
+        {
+          "id": 2,
+          "name": "Wheeler Clay"
+        }
+      ],
+      "greeting": "Hello, Kaitlin Cortez! You have 2 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "62d7f1eafacba41316c99dbd",
+      "index": 2,
+      "guid": "22c2f4c6-5c8f-4589-9d0d-58a75621af1e",
+      "isActive": false,
+      "balance": "$1,206.70",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "blue",
+      "name": "Hoover Livingston",
+      "gender": "male",
+      "company": "FLEXIGEN",
+      "email": "hooverlivingston@flexigen.com",
+      "phone": "+1 (980) 506-3376",
+      "address": "402 Fane Court, Klondike, South Carolina, 9931",
+      "about": "Eiusmod nisi labore quis eiusmod fugiat magna anim consectetur labore. Ad velit et duis consectetur cupidatat nisi exercitation proident sunt. Dolor ullamco esse qui officia consectetur voluptate voluptate et consequat elit magna anim esse. Qui magna anim consequat commodo magna duis do pariatur. Commodo nisi adipisicing eu ut ipsum ad eiusmod est adipisicing voluptate ex. Cillum tempor aliquip mollit eiusmod commodo laboris ut officia ipsum nisi. Minim officia tempor consectetur nostrud occaecat in exercitation aliquip ea deserunt.\r\n",
+      "registered": "2018-01-12T08:39:35 -06:-30",
+      "latitude": 78.858313,
+      "longitude": -74.303295,
+      "tags": [
+        "culpa",
+        "cillum",
+        "aliquip",
+        "incididunt",
+        "adipisicing",
+        "cupidatat",
+        "sunt"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Sims Mack"
+        },
+        {
+          "id": 1,
+          "name": "Shawna Chapman"
+        },
+        {
+          "id": 2,
+          "name": "Blankenship Middleton"
+        }
+      ],
+      "greeting": "Hello, Hoover Livingston! You have 7 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "62d7f1ead56884187bdf8e68",
+      "index": 3,
+      "guid": "069274db-519f-4493-9b4b-0a9aa5e7aca8",
+      "isActive": true,
+      "balance": "$3,239.60",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "eyeColor": "blue",
+      "name": "Corine Black",
+      "gender": "female",
+      "company": "FITCORE",
+      "email": "corineblack@fitcore.com",
+      "phone": "+1 (974) 503-2273",
+      "address": "966 Thornton Street, Stevens, Arkansas, 9434",
+      "about": "Sint tempor sint qui pariatur. Culpa id excepteur officia occaecat eiusmod amet ipsum mollit. Veniam eu eiusmod in cupidatat exercitation amet. Est ex id enim irure do adipisicing dolor esse voluptate anim mollit laboris quis. Non aliqua aliqua cupidatat cupidatat dolore ea irure occaecat non officia commodo dolore nostrud elit. Deserunt deserunt aliqua amet mollit consequat aute veniam duis irure fugiat cillum.\r\n",
+      "registered": "2021-06-04T12:34:45 -06:-30",
+      "latitude": 18.75427,
+      "longitude": -117.555583,
+      "tags": [
+        "enim",
+        "exercitation",
+        "fugiat",
+        "commodo",
+        "adipisicing",
+        "minim",
+        "irure"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Carmela Blake"
+        },
+        {
+          "id": 1,
+          "name": "Melanie Evans"
+        },
+        {
+          "id": 2,
+          "name": "Hillary Atkins"
+        }
+      ],
+      "greeting": "Hello, Corine Black! You have 2 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "62d7f1eaf5e925b64fa09ff9",
+      "index": 4,
+      "guid": "d01d2374-11db-4f34-bede-bd7de8508a6c",
+      "isActive": false,
+      "balance": "$1,400.02",
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "eyeColor": "green",
+      "name": "Contreras Blevins",
+      "gender": "male",
+      "company": "QUOTEZART",
+      "email": "contrerasblevins@quotezart.com",
+      "phone": "+1 (973) 522-3652",
+      "address": "225 Hegeman Avenue, Lydia, Federated States Of Micronesia, 466",
+      "about": "Qui Lorem laborum sunt minim consequat voluptate pariatur sit. Nisi minim consectetur pariatur do officia do fugiat laboris aute duis ea cillum. Excepteur ad nulla exercitation in commodo fugiat. Laboris non duis mollit reprehenderit ad nisi.\r\n",
+      "registered": "2020-10-19T05:21:10 -06:-30",
+      "latitude": 17.561495,
+      "longitude": 108.054813,
+      "tags": [
+        "consectetur",
+        "dolore",
+        "ipsum",
+        "laboris",
+        "culpa",
+        "laborum",
+        "commodo"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Andrea Oneil"
+        },
+        {
+          "id": 1,
+          "name": "Ila Coffey"
+        },
+        {
+          "id": 2,
+          "name": "Mullen Kemp"
+        }
+      ],
+      "greeting": "Hello, Contreras Blevins! You have 10 unread messages.",
+      "favoriteFruit": "strawberry"
+    }
+  ]
+}
