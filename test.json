@@ -140,7 +140,7 @@
     {
       "locString": "eine mobile App für Android und iOS und eine API, die Entwicklern hilft, Browsererweiterungen und Softwareanwendungen zu erstellen. Es bietet eine Website-Schnittstelle",
       "engineName": "Bing translate"
-    },
+    }
   ],
   "context": [
     "https://git.corp.adobe.com/harpavat/first-pwa/blob/master/image.jpeg",
