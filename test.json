@@ -7,27 +7,32 @@
     {
       "coreString": "This is a string for translation",
       "locString": "Dies ist eine Zeichenfolge für die Übersetzung",
-      "match": 80
+      "matchScore": 80,
+      "TM": "Premiere Elements_SW_1"
     },
     {
       "coreString": "This is a very big string for translation",
       "locString": "Dies ist eine sehr große Zeichenfolge für die Übersetzung",
-      "match": 100
+      "matchScore": 100,
+      "TM": "Premiere Elements_SW"
     },
     {
       "coreString": "Talk with someone who speaks a different language.",
       "locString": "Sprich mit jemandem, der eine andere Sprache spricht.",
-      "match": 40
+      "matchScore": 40,
+      "TM": "Premiere Elements_SW"
     },
     {
       "coreString": "Highlight or right-click on a section of text and click on Translate icon next to it to translate it to your language..",
       "locString": "Markieren Sie einen Textabschnitt oder klicken Sie mit der rechten Maustaste darauf und klicken Sie daneben auf das Übersetzen-Symbol, um ihn in Ihre Sprache zu übersetzen.",
-      "match": 20
+      "matchScore": 20,
+      "TM": "Premiere Elements_SW_1"
     },
     {
       "coreString": "Download languages to use offline",
       "locString": "Laden Sie Sprachen herunter, um sie offline zu verwenden",
-      "match": 35
+      "matchScore": 35,
+      "TM": "Premiere Elements_SW"
     }
   ],
   "TD": [
