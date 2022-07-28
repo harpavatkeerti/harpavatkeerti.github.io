@@ -153,9 +153,9 @@
     "Some other comment"
   ],
   "context": [
-    "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fmountain-landscape-picture-id517188688%3Fk%3D20%26m%3D517188688%26s%3D612x612%26w%3D0%26h%3Di38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fnature&tbnid=ISsdmwh92GPtrM&vet=12ahUKEwibjc3Bp5v5AhWb_zgGHVxNAIUQMygEegUIARDiAQ..i&docid=tnVTsEa64LdCyM&w=612&h=384&q=images&ved=2ahUKEwibjc3Bp5v5AhWb_zgGHVxNAIUQMygEegUIARDiAQ",
-    "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.argotrans.com%2Fhubfs%2FImported_Blog_Media%2Fgoogle_transate_2019.png&imgrefurl=https%3A%2F%2Fwww.argotrans.com%2Fblog%2Faccurate-google-translate-2019&tbnid=zG2cn7WFB7fjwM&vet=10CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg..i&docid=A5QTAlbXNt1xnM&w=773&h=393&q=translate&ved=0CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg",
-    "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.argotrans.com%2Fhubfs%2FImported_Blog_Media%2Fgoogle_transate_2019.png&imgrefurl=https%3A%2F%2Fwww.argotrans.com%2Fblog%2Faccurate-google-translate-2019&tbnid=zG2cn7WFB7fjwM&vet=10CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg..i&docid=A5QTAlbXNt1xnM&w=773&h=393&q=translate&ved=0CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg"
+    "https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=",
+    "https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg",
+    "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg"
   ],
   "sourcePreview": "https://git.corp.adobe.com/harpavat/first-pwa/blob/master/package.json",
   "targetPreview": "https://git.corp.adobe.com/harpavat/first-pwa/blob/master/tsconfig.json",
