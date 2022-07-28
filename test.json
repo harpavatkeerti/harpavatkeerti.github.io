@@ -147,6 +147,11 @@
       "engineName": "Bing translate"
     }
   ],
+  "comments": [
+    "This is the first comment",
+    "This is another comment",
+    "Some other comment"
+  ],
   "context": [
     "https://git.corp.adobe.com/harpavat/first-pwa/blob/master/image.jpeg",
     "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.argotrans.com%2Fhubfs%2FImported_Blog_Media%2Fgoogle_transate_2019.png&imgrefurl=https%3A%2F%2Fwww.argotrans.com%2Fblog%2Faccurate-google-translate-2019&tbnid=zG2cn7WFB7fjwM&vet=10CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg..i&docid=A5QTAlbXNt1xnM&w=773&h=393&q=translate&ved=0CCUQMyh6ahcKEwjIrtumuIf5AhUAAAAAHQAAAAAQAg",
