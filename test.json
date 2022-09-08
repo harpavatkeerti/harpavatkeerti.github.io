@@ -180,23 +180,5 @@
       {"key": "devName",
       "value": "stdavis"
       },
-      {"key": "apps",
-      "value": "[\"Project-X\"]"
-      },
-      {"key": "steps",
-      "value": "Screen 1\r\n1. Select an image on the canvas\r\n2. Open the \"Blend\" dropdown\r\n\r\nScreen 2\r\n1. Select an image on the canvas\r\n2. Hover over the \"Blend\" info icon"
-      },
-      {"key": "featureFlags",
-      "value": "Add any feature flags here."
-      },
-      {"key": "devComments",
-      "value": "Please add any additional information here that would be helpful for the linguists and testers that will translate and test the strings from this Pull Request.\r\n- Test files\r\n- UI space limitations\r\n- Protected terminology\r\n- Adobe ID test account information\r\n- Hard to find strings that require extra explanations and screenshots above\r\n- Etc."
-      },
-      {"key": "prUrl",
-      "value": "https://git.corp.adobe.com/Horizon/hz/pull/15560"
-      },
-      {"key": "devName",
-      "value": "stdavis"
-      }
    ]
 }
