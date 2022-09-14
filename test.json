@@ -39,7 +39,7 @@
     [
       {
         "id": 1190115,
-        "text": "Acrobat",
+        "text": "String",
         "language": "en-us",
         "status": "Approved",
         "attributes": [
@@ -63,7 +63,7 @@
       },
       {
         "id": 1190112,
-        "text": "Acrobat",
+        "text": "Schnur",
         "language": "de-de",
         "status": "Approved",
         "attributes": [
@@ -89,7 +89,7 @@
     [
       {
         "id": 1186195,
-        "text": "Acrobat Approval",
+        "text": "big",
         "language": "en-us",
         "status": "Approved",
         "attributes": [
@@ -113,7 +113,7 @@
       },
       {
         "id": 1186192,
-        "text": "Acrobat Approval",
+        "text": "groß",
         "language": "de-de",
         "status": "Approved",
         "attributes": [
